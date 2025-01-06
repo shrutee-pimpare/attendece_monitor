@@ -32,8 +32,6 @@ The Attendance Monitoring System is a web-based application built using PHP and 
 4. Generate and download attendance reports as needed.
 
 ## Screenshots
-![image](https://github.com/shrutee-pimpare/attendence_monitor/assets/90600754/721a668c-f5f8-421b-a006-6b6e8b134c64)
-![image](https://github.com/shrutee-pimpare/attendence_monitor/assets/90600754/7fa75c8e-bfee-4d6b-b6f2-8965d11fa866)
 ![image](https://github.com/shrutee-pimpare/attendence_monitor/assets/90600754/e2643cdf-e5f3-4912-ba7b-67f54ec1371e)
 ![image](https://github.com/shrutee-pimpare/attendence_monitor/assets/90600754/8874c202-cf80-4faa-80f1-0e9681e9eed9)
 ![image](https://github.com/shrutee-pimpare/attendence_monitor/assets/90600754/10cb0b1a-cbae-42c9-b56b-14a4051a41ef)
